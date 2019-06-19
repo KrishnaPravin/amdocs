@@ -1,0 +1,89 @@
+package com.amdocs.CleanCodePractices.single_entry_single_exit;
+
+public class SingleEntrySingleExit {
+	
+	final static String FAIL = "Fail";
+	final static String PASS = "Pass";
+	final static String FIRST_CLASS = "first Class";
+	final static String DISTINCTION = "Distinction";
+	
+	
+	public static void main(String[] args) {
+		final int MARK = 50;
+		System.out.println("MARK: " + MARK + "\nResult: " + getExamResultSingleExit(MARK));
+		System.out.println("MARK: " + MARK + "\nResult: " + getExamResultSingleExit1(MARK));
+		System.out.print("MARK: " + MARK + "\nResult: " + getExamResultMultiExit(MARK));
+	}
+	
+	static String getExamResultSingleExit(int mark) {
+		String result = "";
+		if (mark < 50) {
+			result =  FAIL;
+		} else {
+			if (mark < 65) {
+				result = PASS;
+			} else if (mark < 85) {
+				result = FIRST_CLASS;
+			} else {
+				result = DISTINCTION;
+			}
+		}
+		return result;
+	}
+	
+	static String getExamResultSingleExit1(int mark) {
+		return mark < 50 ? FAIL
+				: mark < 65 ? PASS
+				: mark < 85 ? FIRST_CLASS
+				: DISTINCTION; 
+	}
+	
+	static String getExamResultMultiExit(int mark) {
+		if (mark < 50) {
+			return FAIL;
+		}
+		if (mark < 65) {
+			return PASS;
+		}
+		if (mark < 85) {
+			return FIRST_CLASS;
+		}
+		return DISTINCTION;
+	}
+	
+	public static void labelExample() {
+		// label for outer loop
+		outer:
+			for (int i = 0; i < 10; i++) {
+				for (int j = 0; j < 10; j++) {
+					if (j == 5)
+						continue outer;
+					System.out.println(" value of j = " + j);
+					}
+				} // end of outer loop
+	} // end of labelExample()
+}
+
+// Early Exit
+// Java `label`
+
+//People often argue that a method needs to have only one return statement. Why?
+
+// ---- Origins of SESE ---- //
+// Came from Fortran, where you could have multiple entry points and could exit to multiple exit points
+// Erroneously moved to C as “Single exit from”, where having a many exit points could lead to resource leaks
+// None of these are relevant to Java (which has finally), but the custom was adopted by default…
+
+// ---- So…? ---- //
+// Code should be clear – both styles are OK.
+// As a rule of thumb, short functions make this discussion irrelevant.
+// Long flat functions tend to be more readable with SESE
+// Long deeply nested functions tend to get simplified with multiple exit points
+// Both are bad :)
+
+// ---- And other exit constructs? ---- //
+// Exiting blocks with break is a form of “goto”. It is not harmful, as java does not allow harmful “goto” – but it may often make code harder to read.
+// Make the decision based on readability of specific code.
+
+
+// https://medium.com/ncr-edinburgh/early-exit-c86d5f0698ba

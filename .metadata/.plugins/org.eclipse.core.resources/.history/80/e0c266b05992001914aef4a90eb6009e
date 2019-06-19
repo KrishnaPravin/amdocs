@@ -1,0 +1,49 @@
+package com.amdocs.CleanCodePractices.single_entry_single_exit;
+
+public class SingleEntrySingleExit {
+	
+	final String FAIL = "Fail";
+	final String PASS = "Pass";
+	final String FIRST_CLASS = "first Class";
+	final String DISTINCTION = "Distinction";
+	public static void main(String[] args) {
+		
+	}
+	
+	String getExamResult(int examMark) {
+		String result = "";
+		if (examMark < 50) {
+			result =  FAIL;
+		} else {
+			if (examMark < 65) {
+				result = PASS;
+			} else if (examMark < 85) {
+				result = FIRST_CLASS;
+			} else {
+				result = DISTINCTION;
+			}
+		}
+		return result;
+	}
+	
+	
+	String getExamReasult(int mark) {
+		String result;
+		if (isNumeric(s)) {
+			if (r > 0) {
+				ret = Long.parseLong(s,r);
+			} else {
+				ret = ERR_BAD_RADIX;
+			}
+		} else {
+			  ret = ERR_PARSE;
+		  }
+		  return ret;
+	}
+	
+	boolean isNumeric(String stringToCheck) {
+		return true;
+	}
+
+
+}

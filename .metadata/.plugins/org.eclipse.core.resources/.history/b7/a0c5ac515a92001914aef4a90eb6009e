@@ -1,0 +1,48 @@
+package com.amdocs.CleanCodePractices.single_entry_single_exit;
+
+public class SingleEntrySingleExit {
+	
+	final static String FAIL = "Fail";
+	final static String PASS = "Pass";
+	final static String FIRST_CLASS = "first Class";
+	final static String DISTINCTION = "Distinction";
+	
+	
+	public static void main(String[] args) {
+		System.out.print(getExamResultSingleExit(50));
+		System.out.print(getExamResultMultiExit(50));
+	}
+	
+	static String getExamResultSingleExit(int mark) {
+		String result = "";
+		if (mark < 50) {
+			result =  FAIL;
+		} else {
+			if (mark < 65) {
+				result = PASS;
+			} else if (mark < 85) {
+				result = FIRST_CLASS;
+			} else {
+				result = DISTINCTION;
+			}
+		}
+		return result;
+	}
+	
+	static String getExamResultMultiExit(int mark) {
+		if (mark < 50) {
+			return FAIL;
+		}
+		
+		if (mark < 65) {
+			return PASS;
+		}
+		
+		if (mark < 85) {
+			return FIRST_CLASS;
+		}
+		
+		return DISTINCTION;
+	}
+
+}

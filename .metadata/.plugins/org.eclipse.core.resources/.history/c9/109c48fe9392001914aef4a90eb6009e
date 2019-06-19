@@ -1,0 +1,78 @@
+package com.amdocs.CleanCodePractices.single_entry_single_exit;
+
+public class ErrorHandling {
+	
+	final static String FAIL = "Fail";
+	final static String PASS = "Pass";
+	final static String FIRST_CLASS = "First Class";
+	final static String DISTINCTION = "Distinction";
+	final static String LESS_THAN_ZERO_ERROR = "Mark cannot be less than 0";
+	final static String GREATER_THAN_HUNDRED_ERROR = "Mark cannot be greater than 100";
+
+	public static void main(String[] args) {
+		final int EXCEPTIONAL_MARK = 150;
+		
+		System.out.println("MARK: " + EXCEPTIONAL_MARK + "\nResult: " + getExamResult(EXCEPTIONAL_MARK));
+		
+//		System.out.println("MARK: " + EXCEPTIONAL_MARK + "\nResult: " + getExamResultReturnsErrorText(EXCEPTIONAL_MARK));
+
+//		try {
+//			System.out.println("MARK: " + EXCEPTIONAL_MARK + "\nResult: " + getExamResultThrowsExceptions(EXCEPTIONAL_MARK));
+//		} catch (Error error) {
+//			System.out.println(error.getMessage());
+//			error.printStackTrace();
+//		}
+	}
+	
+	static String getExamResult(int mark) {
+		if (mark < 50) {
+			return FAIL;
+		}
+		if (mark < 65) {
+			return PASS;
+		}
+		if (mark < 85) {
+			return FIRST_CLASS;
+		}
+		return DISTINCTION;
+	}
+	
+	static String getExamResultReturnsErrorText(int mark) {
+		if (mark < 0) {
+			return LESS_THAN_ZERO_ERROR;
+		}
+		if (mark > 100) {
+			return GREATER_THAN_HUNDRED_ERROR;
+		}
+		if (mark < 50) {
+			return FAIL;
+		}
+		if (mark < 65) {
+			return PASS;
+		}
+		if (mark < 85) {
+			return FIRST_CLASS;
+		}
+		return DISTINCTION;
+	}
+	
+	static String getExamResultThrowsExceptions(int mark) {
+		if (mark < 0) {
+			throw new Error(LESS_THAN_ZERO_ERROR);
+		}
+		if (mark > 100) {
+			throw new Error(GREATER_THAN_HUNDRED_ERROR);
+		}
+		if (mark < 50) {
+			return FAIL;
+		}
+		if (mark < 65) {
+			return PASS;
+		}
+		if (mark < 85) {
+			return FIRST_CLASS;
+		}
+		return DISTINCTION;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.amdocs.CleanCodePractices.single_entry_single_exit;
+
+public class ErrorHandling {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

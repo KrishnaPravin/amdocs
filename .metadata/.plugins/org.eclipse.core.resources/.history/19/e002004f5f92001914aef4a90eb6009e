@@ -1,0 +1,28 @@
+package com.amdocs.CleanCodePractices.single_entry_single_exit;
+
+public class ErrorHandling {
+	
+	final static String FAIL = "Fail";
+	final static String PASS = "Pass";
+	final static String FIRST_CLASS = "First Class";
+	final static String DISTINCTION = "Distinction";
+
+	public static void main(String[] args) {
+		final int MARK = 50;
+		System.out.println("MARK: " + MARK + "\nResult: " + getExamResult(MARK));
+	}
+	
+	static String getExamResult(int mark) {
+		if (mark < 50) {
+			return FAIL;
+		}
+		if (mark < 65) {
+			return PASS;
+		}
+		if (mark < 85) {
+			return FIRST_CLASS;
+		}
+		return DISTINCTION;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.amdocs.CleanCodePractices;
+
+public class ExamResult {
+	final static String FAIL = "Fail";
+	final static String PASS = "Pass";
+	final static String FIRST_CLASS = "First Class";
+	final static String DISTINCTION = "Distinction";
+	final static String LESS_THAN_ZERO_ERROR = "Mark cannot be less than 0";
+	final static String GREATER_THAN_HUNDRED_ERROR = "Mark cannot be greater than 100";
+}
