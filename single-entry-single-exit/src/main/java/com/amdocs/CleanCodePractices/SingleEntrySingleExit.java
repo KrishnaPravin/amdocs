@@ -65,18 +65,3 @@ public class SingleEntrySingleExit {
 			} // end of outer loop
 	}
 }
-
-
-// ---- So…? ---- //
-// Code should be clear – both styles are OK.
-// As a rule of thumb, short functions make this discussion irrelevant.
-// Long flat functions tend to be more readable with SESE
-// Long deeply nested functions tend to get simplified with multiple exit points
-// Both are bad :)
-
-// ---- And other exit constructs? ---- //
-// Exiting blocks with break is a form of “goto”. It is not harmful, as java does not allow harmful “goto” – but it may often make code harder to read.
-// Make the decision based on readability of specific code.
-
-
-// https://medium.com/ncr-edinburgh/early-exit-c86d5f0698ba
