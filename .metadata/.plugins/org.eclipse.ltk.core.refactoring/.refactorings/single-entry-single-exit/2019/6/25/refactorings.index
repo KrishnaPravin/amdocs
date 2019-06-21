@@ -2,3 +2,9 @@
 1560950154275	Move compilation unit
 1560950171344	Move compilation unit
 1560950178712	Delete element
+1560960950530	Copy compilation unit
+1561034744324	Extract method 'getInput'
+1561041416403	Extract method 'createFile'
+1561082392157	Delete element
+1561086996363	Rename compilation unit 'NullObject.java'
+1561090176723	Rename type 'BasicObject'

@@ -1,27 +1,36 @@
 package com.amdocs.CleanCodePractices;
 
+import java.util.Scanner;
+
 public class SingleEntrySingleExit {
 	
 	public static void main(String[] args) {
-//		final int MARK = 50;
-//		System.out.println("MARK: " + MARK + "\nResult: " + getExamResultSingleExit(MARK));
+		final int MARK = getInput("Mark");
+		System.out.println("MARK: " + MARK + "\nResult: " + getExamResultSingleExit(MARK));
 //		System.out.println("MARK: " + MARK + "\nResult: " + getExamResultSingleExit1(MARK));
 //		System.out.print("MARK: " + MARK + "\nResult: " + getExamResultMultiExit(MARK));
+	}
+
+	private static int getInput(String inputLabel) {
+		System.out.print("Enter " + inputLabel + ": ");
+		Scanner keyboardScanner = new Scanner(System.in);
+		final int MARK = Integer.parseInt(keyboardScanner.nextLine());
+		keyboardScanner.close();
+		return MARK;
 	}
 	
 	static String getExamResultSingleExit(int mark) {
 		String result = "";
 		if (mark < 50) {
 			result =  ExamResult.FAIL;
-		} else {
-			if (mark < 65) {
-				result = ExamResult.PASS;
-			} else if (mark < 85) {
-				result = ExamResult.FIRST_CLASS;
-			} else {
-				result = ExamResult.DISTINCTION;
-			}
 		}
+		if (mark < 65) {
+			result = ExamResult.PASS;
+		}
+		if (mark < 85) {
+			result = ExamResult.FIRST_CLASS;
+		}
+		result = ExamResult.DISTINCTION;
 		return result;
 	}
 	

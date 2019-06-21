@@ -353,3 +353,652 @@ org.apache.maven.archetype.old.ArchetypeTemplateProcessingException: Directory S
 2019-06-19 18:48:49,564 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-19 18:48:49,564 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
 2019-06-19 18:56:36,019 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-19 21:43:33,840 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:43:33,864 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:43:33,871 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:43:33,871 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:43:52,602 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:43:52,603 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:43:52,606 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:43:52,606 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:44:35,504 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:44:35,505 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:44:35,623 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:44:35,623 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:44:42,534 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:44:42,535 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:44:42,537 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:44:42,537 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:45:50,821 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:45:50,822 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:45:50,825 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:45:50,825 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:45:51,853 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:45:51,854 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:45:51,855 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:45:51,855 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:46:25,414 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:25,414 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:46:25,416 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:25,416 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:46:35,684 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:35,684 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:46:35,692 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:35,692 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:46:40,180 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:40,181 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:46:40,183 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:40,183 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:46:46,377 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:46,378 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:46:46,379 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:46,379 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:46:59,274 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:59,274 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:46:59,276 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:46:59,277 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:47:06,990 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:47:06,990 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:47:06,992 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:47:06,992 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-19 21:47:25,949 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:47:25,949 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-19 21:47:25,951 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-19 21:47:25,951 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 09:28:34,746 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 09:28:34,751 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 09:28:34,754 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 09:28:34,754 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 09:28:35,804 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 09:28:35,805 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 09:28:35,807 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 09:28:35,808 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:00:35,448 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:00:35,450 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:00:35,452 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:00:35,454 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:00:50,098 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:00:50,099 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:00:50,100 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:00:50,101 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:03:05,861 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:03:05,861 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:03:05,864 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:03:05,864 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:03:30,141 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:03:30,141 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:03:30,143 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:03:30,143 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:03:39,272 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:03:39,272 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:03:39,275 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:03:39,287 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:08:33,893 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:08:33,894 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:08:33,896 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:08:33,896 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:08:54,320 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:08:54,320 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:08:54,322 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:08:54,323 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:10:04,080 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:10:04,081 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:10:04,085 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:10:04,086 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:10:26,587 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:10:26,588 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:10:26,590 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:10:26,590 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:10:37,522 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:10:37,522 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:10:37,524 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:10:37,524 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:11:20,677 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:11:20,677 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:11:20,678 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:11:20,678 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:12:25,013 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:12:25,013 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:12:25,018 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:12:25,019 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:15:44,835 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:15:44,836 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:15:44,839 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:15:44,839 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:16:57,467 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:16:57,474 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:16:57,735 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:16:57,735 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:17:28,618 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:17:28,622 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:17:28,626 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:17:28,626 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:20:58,052 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:20:58,052 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:20:58,056 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:20:58,057 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:21:07,719 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:21:07,719 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:21:07,725 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:21:07,725 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:32:12,548 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:32:12,551 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:32:12,553 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:32:12,554 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:33:31,393 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:33:31,393 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:33:31,395 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:33:31,395 [Worker-77: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:34:11,911 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:34:11,911 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:34:11,912 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:34:11,913 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:34:21,649 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:34:21,650 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:34:21,652 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:34:21,652 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:37:29,453 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:37:29,453 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:37:29,458 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:37:29,458 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:38:56,138 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:38:56,138 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:38:56,140 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:38:56,141 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:39:30,194 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:39:30,194 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:39:30,195 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:39:30,195 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:39:46,016 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:39:46,016 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:39:46,018 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:39:46,018 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:42:21,082 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:42:21,082 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:42:21,083 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:42:21,084 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:57:48,065 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:57:48,072 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:57:48,075 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:57:48,076 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 18:57:49,133 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:57:49,133 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 18:57:49,136 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 18:57:49,137 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:07:12,077 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:07:12,238 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:07:12,244 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:07:12,245 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:07:13,397 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:07:13,397 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:07:13,400 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:07:13,401 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:20:44,544 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:20:44,545 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:20:44,547 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:20:44,547 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:22:16,506 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:22:16,507 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:22:16,509 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:22:16,510 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:24:10,914 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:24:10,914 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:24:10,917 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:24:10,917 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:31:57,708 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:31:57,709 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:31:57,710 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:31:57,711 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:32:10,659 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:32:10,663 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:32:10,666 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:32:10,667 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:32:17,584 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:32:17,584 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:32:17,585 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:32:17,585 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:32:21,660 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:32:21,660 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:32:21,662 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:32:21,662 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:37:36,701 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:37:36,702 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:37:36,708 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:37:36,708 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:37:47,180 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:37:47,181 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:37:47,182 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:37:47,182 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:38:40,111 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:38:40,111 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:38:40,112 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:38:40,113 [Worker-90: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:39:00,285 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:39:00,285 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:39:00,286 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:39:00,287 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:44:44,114 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:44:44,117 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:44:44,118 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:44:44,118 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:45:19,228 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:45:19,229 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:45:19,232 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:45:19,232 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:45:55,590 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:45:55,590 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:45:55,597 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:45:55,597 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:46:09,650 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:46:09,651 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:46:09,652 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:46:09,652 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:46:17,370 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:46:17,370 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:46:17,377 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:46:17,377 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:50:32,904 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:50:32,905 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:50:32,906 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:50:32,907 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:50:41,684 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:50:41,684 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:50:41,686 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:50:41,687 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:51:24,884 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:51:24,884 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:51:24,888 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:51:24,888 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:51:35,938 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:51:35,939 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:51:35,942 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:51:35,942 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:56:13,658 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:56:13,659 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:56:13,660 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:56:13,660 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:59:05,609 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:59:05,609 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:59:05,610 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:59:05,611 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 19:59:33,847 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:59:33,847 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 19:59:33,848 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 19:59:33,848 [Worker-94: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:00:17,807 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:00:17,807 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:00:17,808 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:00:17,808 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:00:44,277 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:00:44,278 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:00:44,279 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:00:44,279 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:01:56,542 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:01:56,542 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:01:56,544 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:01:56,544 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:02:20,493 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:02:20,494 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:02:20,495 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:02:20,495 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:04:33,117 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:04:33,117 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:04:33,118 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:04:33,118 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:06:56,910 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:06:56,914 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:06:56,915 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:06:56,915 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:06:57,926 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:06:57,927 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:06:57,928 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:06:57,928 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:07:36,762 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:07:36,762 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:07:36,767 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:07:36,768 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:09:49,073 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:09:49,076 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:09:49,078 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:09:49,078 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:11:34,494 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:11:34,496 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:11:34,501 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:11:34,502 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:13:15,138 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:13:15,139 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:13:15,140 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:13:15,140 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:13:50,249 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:13:50,250 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:13:50,251 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:13:50,251 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:14:37,062 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:14:37,063 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:14:37,064 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:14:37,064 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:16:02,058 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:02,058 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:16:02,059 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:02,060 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:16:05,924 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:05,924 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:16:05,925 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:05,926 [Worker-98: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:16:13,283 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:13,283 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:16:13,285 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:13,285 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:16:31,912 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:31,912 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:16:31,914 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:31,914 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:16:52,939 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:52,939 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:16:52,940 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:16:52,940 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-20 20:17:33,623 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:17:33,623 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-20 20:17:33,624 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-20 20:17:33,624 [Worker-97: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:05:33,399 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:05:33,405 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:05:33,413 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:05:33,413 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:05:42,298 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:05:42,298 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:05:42,302 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:05:42,302 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:06:27,305 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:06:27,306 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:06:27,311 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:06:27,311 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:12:24,650 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:12:24,651 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:12:24,653 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:12:24,653 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:12:37,068 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:12:37,068 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:12:37,069 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:12:37,069 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:12:48,898 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:12:48,898 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:12:48,902 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:12:48,902 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:13:56,098 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:13:56,100 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:13:56,101 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:13:56,101 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:14:07,437 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:14:07,437 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:14:07,438 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:14:07,439 [Worker-114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:15:14,511 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:15:14,512 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:15:14,514 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:15:14,514 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:15:39,151 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:15:39,151 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:15:39,153 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:15:39,153 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:15:43,134 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:15:43,134 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:15:43,135 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:15:43,135 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:15:50,071 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:15:50,071 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:15:50,072 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:15:50,072 [Worker-117: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:17:58,615 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:17:58,615 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:17:58,617 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:17:58,617 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:18:37,209 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:18:37,209 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:18:37,211 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:18:37,211 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:20:20,454 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:20:20,454 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:20:20,455 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:20:20,456 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:21:24,843 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:21:24,849 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:21:24,850 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:21:24,850 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:21:59,656 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:21:59,656 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:21:59,657 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:21:59,657 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:25:16,633 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:25:16,634 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:25:16,635 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:25:16,636 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:25:49,250 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:25:49,250 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:25:49,251 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:25:49,252 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:25:54,104 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:25:54,104 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:25:54,106 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:25:54,106 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:27:37,632 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:27:37,636 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:27:37,637 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:27:37,637 [Worker-115: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:29:52,651 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:29:52,655 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:29:52,657 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:29:52,657 [Worker-116: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 07:36:10,162 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:36:10,162 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 07:36:10,164 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 07:36:10,164 [Worker-120: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:26:59,136 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:26:59,680 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:26:59,770 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:26:59,771 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:34:19,805 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:34:19,806 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:34:19,808 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:34:19,808 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:44:28,578 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:44:28,585 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:44:28,587 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:44:28,587 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:44:46,581 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:44:46,581 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:44:46,586 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:44:46,587 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:45:27,967 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:45:27,967 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:45:27,968 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:45:27,969 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:46:38,244 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:46:38,246 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:46:38,248 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:46:38,248 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:46:39,287 [Worker-127: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:46:39,287 [Worker-127: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:46:39,288 [Worker-127: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:46:39,288 [Worker-127: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:46:50,162 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:46:50,162 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:46:50,163 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:46:50,163 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:47:07,852 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:47:07,852 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:47:07,853 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:47:07,854 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 08:47:22,825 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:47:22,825 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 08:47:22,827 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 08:47:22,827 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:38:47,340 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:38:47,361 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:38:47,376 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:38:47,377 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:39:15,265 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:39:15,265 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:39:15,272 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:39:15,273 [Worker-134: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:39:37,106 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:39:37,107 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:39:37,112 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:39:37,113 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:39:38,525 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:39:38,526 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:39:38,527 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:39:38,528 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:51:32,012 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:51:32,013 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:51:32,016 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:51:32,017 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:51:33,041 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:51:33,042 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:51:33,043 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:51:33,043 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:52:29,496 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:52:29,498 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:52:29,570 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:52:29,574 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:55:32,281 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:55:32,281 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:55:32,283 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:55:32,283 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:57:01,775 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:57:01,776 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:57:01,778 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:57:01,778 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:58:59,908 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:58:59,909 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:58:59,912 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:58:59,912 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:59:14,790 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:59:14,791 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:59:14,820 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:59:14,820 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 09:59:29,866 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:59:29,866 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 09:59:29,867 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 09:59:29,867 [Worker-139: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 10:05:47,575 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:05:47,581 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 10:05:47,582 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:05:47,582 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 10:07:48,227 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:07:48,229 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 10:07:48,231 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:07:48,231 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 10:08:18,983 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:08:18,983 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 10:08:18,984 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:08:18,984 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 10:23:19,961 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:23:19,962 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-21 10:23:19,966 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:23:19,966 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-21 10:33:44,065 [Worker-140: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/pom.xml
+2019-06-21 10:33:47,613 [Worker-140: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.amdocs.CleanCodePractices:day2:0.0.1-SNAPSHOT @ /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/pom.xml.
+2019-06-21 10:33:48,488 [Worker-140: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day2/src/main/java
+2019-06-21 10:33:48,504 [Worker-140: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /day2/src/test/java
+2019-06-21 10:33:48,839 [Worker-140: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2019-06-21 10:33:50,985 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:33:50,985 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:33:50,986 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:33:50,986 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:34:21,842 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:34:21,843 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:34:21,844 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:34:21,844 [Worker-143: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:35:26,058 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:35:26,058 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:35:26,059 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:35:26,060 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:40:49,950 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:40:49,952 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:40:49,953 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:40:49,953 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:41:19,047 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:41:19,048 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:41:19,050 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:41:19,055 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:43:54,287 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:43:54,288 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:43:54,289 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:43:54,289 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:44:01,944 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:44:01,944 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:44:01,945 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:44:01,945 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:51:46,730 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:51:46,732 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:51:46,733 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:51:46,734 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:54:59,344 [Worker-148: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:54:59,344 [Worker-148: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:54:59,345 [Worker-148: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:54:59,345 [Worker-148: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 10:57:40,501 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:57:40,501 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 10:57:40,504 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 10:57:40,504 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:00:34,632 [Worker-150: Launching FatalErrors] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:00:34,633 [Worker-150: Launching FatalErrors] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:00:34,640 [Worker-150: Launching FatalErrors] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:00:34,641 [Worker-150: Launching FatalErrors] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:05:20,775 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:05:20,776 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:05:20,777 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:05:20,778 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:09:27,505 [Worker-153: Launching BoneheadedErrors] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:09:27,506 [Worker-153: Launching BoneheadedErrors] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:09:27,507 [Worker-153: Launching BoneheadedErrors] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:09:27,507 [Worker-153: Launching BoneheadedErrors] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:09:55,499 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:09:55,499 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:09:55,500 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:09:55,500 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:10:16,492 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:10:16,492 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:10:16,493 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:10:16,493 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:12:35,496 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:12:35,496 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:12:35,497 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:12:35,497 [Worker-156: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:12:53,098 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:12:53,101 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:12:53,103 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:12:53,103 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:18:25,344 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:18:25,345 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:18:25,345 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:18:25,346 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:19:18,356 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:19:18,356 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:19:18,357 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:19:18,358 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:24:06,441 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:24:06,445 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:24:06,447 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:24:06,447 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:24:12,697 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:24:12,697 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:24:12,699 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:24:12,699 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:24:41,434 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:24:41,434 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:24:41,436 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:24:41,437 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:28:56,600 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:28:56,602 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:28:56,603 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:28:56,603 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:29:17,580 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:29:17,580 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:29:17,582 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:29:17,582 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
+2019-06-21 11:30:49,254 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:30:49,254 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/main/resources
+2019-06-21 11:30:49,255 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-21 11:30:49,256 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/day2/src/test/resources
