@@ -1283,3 +1283,7 @@ org.apache.maven.archetype.old.ArchetypeTemplateProcessingException: Directory S
 2019-06-25 19:15:25,452 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
 2019-06-25 19:15:25,453 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-25 19:15:25,453 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources
+2019-06-25 19:18:31,747 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 19:18:31,748 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/main/resources
+2019-06-25 19:18:31,750 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 19:18:31,750 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/krs/Documents/Krishna/Training/Pune-Amdocs/Code/CleanCodePractices/single-entry-single-exit/src/test/resources

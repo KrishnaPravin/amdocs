@@ -1,4 +1,4 @@
-package parallelChange;
+package com.amdocs.refactoring.parallelChange;
 
 import java.util.HashMap;
 import java.util.Map;

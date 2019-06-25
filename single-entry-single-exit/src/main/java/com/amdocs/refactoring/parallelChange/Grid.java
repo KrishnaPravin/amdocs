@@ -1,4 +1,4 @@
-package parallelChange;
+package com.amdocs.refactoring.parallelChange;
 
 public class Grid {
 	// Before refactoring
