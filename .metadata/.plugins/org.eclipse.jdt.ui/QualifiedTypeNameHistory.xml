@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.ExamResult"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="java.awt.desktop.OpenFilesEvent"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.GetInput"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.Employee"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.Developer"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.NullDeveloper"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.demeter.Car"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.demeter.Wiper"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.demeter.ClassType1"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.demeter.BaseClassMember"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.demeter.BasicClass"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.demeter.UnrelatedClass"/>
+    <fullyQualifiedTypeName name="com.amdocs.CleanCodePractices.demeter.UnrelatedClassB"/>
+    <fullyQualifiedTypeName name="java.lang.Error"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
 </qualifiedTypeNameHistroy>

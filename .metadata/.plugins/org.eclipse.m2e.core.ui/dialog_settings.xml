@@ -26,6 +26,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.amdocs.CleanCodePractices.day2"/>
+			<item value="com.amdocs.CleanCodePractices"/>
 			<item value="com.amdocs.CleanCodePractices.single_entry_single_exit"/>
 			<item value="com.amdocs.CleanCodePractices.SingleEntrySingleExit"/>
 		</list>
@@ -33,6 +35,7 @@
 			<item value="com.amdocs.CleanCodePractices"/>
 		</list>
 		<list key="artifactId">
+			<item value="day2"/>
 			<item value="single-entry-single-exit"/>
 			<item value="SingleEntrySingleExit"/>
 		</list>
@@ -66,5 +69,9 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
