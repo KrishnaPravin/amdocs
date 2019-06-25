@@ -1,5 +1,6 @@
 package parallelChange;
 
+import java.util.HashMap;
 import java.util.Map;
 
 public class GridNew {
@@ -8,16 +9,20 @@ public class GridNew {
 	
     private Map<Coordinate, Cell> newCells;
     
+    public GridNew() {
+    	this.newCells = new HashMap<Coordinate, Cell>();
+	}
+    
     public void addCell(Coordinate coordinate, Cell cell) {
-    	newCells.put(coordinate, cell);
+    	this.newCells.put(coordinate, cell);
     }
 
 	public Cell fetchCell(Coordinate coordinate) {
-		return newCells.get(coordinate);
+		return this.newCells.get(coordinate);
 	}
 	
 	public boolean isEmpty(Coordinate coordinate) {
-		return !newCells.containsKey(coordinate);
+		return !this.newCells.containsKey(coordinate);
 	}
  
 }
